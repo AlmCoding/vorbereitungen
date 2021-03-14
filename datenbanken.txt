@@ -1,0 +1,28 @@
+database = collection of related information
+DBMS = database management system (used for creating, maintaining and interacting with a databases)
+
+Relational databases SQL (tabel-based datastructure)		MySQL, postgreSQL
+Non-relational databases No-SQL (document/graph-based datastructure)  mongoDB, Elasticsearch (more flexible and scalabel)
+
+
+- SQL is used to interact with relational databases (tabel based)
+- nonsql databases are document based
+
+SQL = Structured Query Language
+C.R.U.D = create, retrieve, update, delete
+
+tabels => columns (attributs) & rows (entries)
+primary key = a collumn which stores an unique identifier for earch entry
+		natural primary key have also other purposes (email, ...)
+		surrogate keys have no other purpose are beeing an uniqe identifiers
+	primary keys can also consist of two collumns whose combinations are uniqe identifiers (composit keys)	
+
+foreign key = a collumn which stores primary keys of another table
+		foreign keys define relationships between tabels
+
+
+
+MySQL
+password = password
+
+
